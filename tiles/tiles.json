@@ -1,57 +1,57 @@
 {
-  "tileSize": 256,
-  "originalWidth": 4264,
-  "originalHeight": 1424,
+  "tileSize": 128,
+  "originalWidth": 8192,
+  "originalHeight": 4320,
   "maxZoom": 5,
-  "generatedAt": "2026-08-17T23:39:00.506Z",
+  "generatedAt": "2026-08-18T17:54:39.219Z",
   "levels": [
     {
       "z": 0,
-      "width": 134,
-      "height": 45,
-      "cols": 1,
-      "rows": 1,
-      "tiles": 1
+      "width": 256,
+      "height": 135,
+      "cols": 2,
+      "rows": 2,
+      "tiles": 4
     },
     {
       "z": 1,
-      "width": 267,
-      "height": 89,
-      "cols": 2,
-      "rows": 1,
-      "tiles": 2
+      "width": 512,
+      "height": 270,
+      "cols": 4,
+      "rows": 3,
+      "tiles": 12
     },
     {
       "z": 2,
-      "width": 533,
-      "height": 178,
-      "cols": 3,
-      "rows": 1,
-      "tiles": 3
+      "width": 1024,
+      "height": 540,
+      "cols": 8,
+      "rows": 5,
+      "tiles": 40
     },
     {
       "z": 3,
-      "width": 1066,
-      "height": 356,
-      "cols": 5,
-      "rows": 2,
-      "tiles": 10
+      "width": 2048,
+      "height": 1080,
+      "cols": 16,
+      "rows": 9,
+      "tiles": 144
     },
     {
       "z": 4,
-      "width": 2132,
-      "height": 712,
-      "cols": 9,
-      "rows": 3,
-      "tiles": 27
+      "width": 4096,
+      "height": 2160,
+      "cols": 32,
+      "rows": 17,
+      "tiles": 544
     },
     {
       "z": 5,
-      "width": 4264,
-      "height": 1424,
-      "cols": 17,
-      "rows": 6,
-      "tiles": 102
+      "width": 8192,
+      "height": 4320,
+      "cols": 64,
+      "rows": 34,
+      "tiles": 2176
     }
   ]
 }

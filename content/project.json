@@ -32,7 +32,7 @@
     "typographyProfile": "popular",
     "contrastMode": "comfort",
     "textEffect": "auto",
-    "textEffectStrength": 24,
+    "textEffectStrength": 77,
     "textMeasure": 66,
     "eyebrowTracking": 0.12,
     "titleOutlineWidth": 0.35,
@@ -45,8 +45,8 @@
     "subtitleShadowStyle": "soft",
     "subtitleShadowColor": "#000000",
     "subtitleShadowStrength": 42,
-    "actionButtonKit": "depthGlow",
-    "actionButtonEffect": "depth-glow",
+    "actionButtonKit": "custom",
+    "actionButtonEffect": "soft-shadow",
     "actionButtonClickEffect": "press",
     "actionButtonDepth": 6,
     "actionButtonGlow": 38,
@@ -54,7 +54,7 @@
     "actionButtonGlassBlur": 14,
     "actionButtonShine": 42,
     "actionButtonBorderWidth": 1,
-    "actionButtonHoverScale": 102,
+    "actionButtonHoverScale": 103,
     "actionButtonSpeed": 180,
     "name": "Casa Própria Azul — Casa com Pátio",
     "description": "Confiança e leitura rápida com foco no efeito final: casa própria com pátio.",
@@ -72,9 +72,9 @@
     "title": "Casa com Pátio em Nova Santa Rita | Minha Casa Minha Vida",
     "description": "Sua casa com pátio em Nova Santa Rita pode estar mais perto do que imagina. Descubra se renda, FGTS e MCMV podem reduzir o valor da entrada.",
     "keywords": "casa com pátio Nova Santa Rita, casa própria Nova Santa Rita, Minha Casa Minha Vida Nova Santa Rita, terreno e construção Nova Santa Rita, Vida Nova Santa Rita, casa com quintal, pouca entrada, usar FGTS, casa própria acessível, sair do aluguel",
-    "canonical": "https://www.roberto-fettuccia.com.br/vida-nova-santa-rita",
+    "canonical": "https://vidanovasantarita.com.br",
     "ogImage": "https://raw.githubusercontent.com/corretor-fettuccia/media/refs/heads/main/vidanova/VidaNova_1.webp",
-    "favicon": "",
+    "favicon": "https://vidanovasantarita.com.br/favicon.png",
     "robots": "index, follow",
     "propertyName": "Vida Nova Santa Rita",
     "address": "Rua Passo do Caí, 1175 Nova Santa Rita-RS",
@@ -87,7 +87,7 @@
     "authorRole": "Corretor de imóveis e especialista em Terreno e Construção",
     "authorUrl": "https://instagram.com/roberto.fettuccia",
     "organizationName": "Roberto Fettuccia",
-    "organizationUrl": "https://www.roberto-fettuccia.com.br",
+    "organizationUrl": "https://corretor-fettuccia.com.br",
     "lastReviewed": "2026-08-17",
     "sourceNotes": "Projeto-base comercial do Vida Nova Santa Rita. Condições de Minha Casa Minha Vida, FGTS, crédito, terreno e construção dependem das regras vigentes, da análise individual e da instituição financeira.",
     "localInsight": "Casa própria com pátio em Nova Santa Rita, com análise de renda, FGTS, Minha Casa Minha Vida, terreno e projeto antes de definir o aporte necessário.",
@@ -613,7 +613,7 @@
         "scrollWheelZoom": false,
         "doubleClickZoom": true,
         "lockBounds": true,
-        "backgroundColor": "#0b0d10"
+        "backgroundColor": "#ffffff"
       },
       "settings": {
         "visible": true,
@@ -689,6 +689,6 @@
       }
     }
   ],
-  "selectedSectionId": "scrollytelling-video-pro-1786662768376-qhopg",
-  "updatedAt": "2026-08-17T23:49:04.458Z"
+  "selectedSectionId": "implantacao-tiles-pro-1786994978442-78b7q",
+  "updatedAt": "2026-08-18T18:14:02.307Z"
 }

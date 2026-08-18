@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tiles>
-  <tileSize>256</tileSize>
-  <originalWidth>4264</originalWidth>
-  <originalHeight>1424</originalHeight>
+  <tileSize>128</tileSize>
+  <originalWidth>8192</originalWidth>
+  <originalHeight>4320</originalHeight>
   <maxZoom>5</maxZoom>
-  <generatedAt>2026-08-17T23:39:00.506Z</generatedAt>
+  <generatedAt>2026-08-18T17:54:39.219Z</generatedAt>
   <levels>
     <level>
       <z>0</z>
-      <width>134</width>
-      <height>45</height>
-      <cols>1</cols>
-      <rows>1</rows>
-      <tiles>1</tiles>
+      <width>256</width>
+      <height>135</height>
+      <cols>2</cols>
+      <rows>2</rows>
+      <tiles>4</tiles>
     </level>
     <level>
       <z>1</z>
-      <width>267</width>
-      <height>89</height>
-      <cols>2</cols>
-      <rows>1</rows>
-      <tiles>2</tiles>
+      <width>512</width>
+      <height>270</height>
+      <cols>4</cols>
+      <rows>3</rows>
+      <tiles>12</tiles>
     </level>
     <level>
       <z>2</z>
-      <width>533</width>
-      <height>178</height>
-      <cols>3</cols>
-      <rows>1</rows>
-      <tiles>3</tiles>
+      <width>1024</width>
+      <height>540</height>
+      <cols>8</cols>
+      <rows>5</rows>
+      <tiles>40</tiles>
     </level>
     <level>
       <z>3</z>
-      <width>1066</width>
-      <height>356</height>
-      <cols>5</cols>
-      <rows>2</rows>
-      <tiles>10</tiles>
+      <width>2048</width>
+      <height>1080</height>
+      <cols>16</cols>
+      <rows>9</rows>
+      <tiles>144</tiles>
     </level>
     <level>
       <z>4</z>
-      <width>2132</width>
-      <height>712</height>
-      <cols>9</cols>
-      <rows>3</rows>
-      <tiles>27</tiles>
+      <width>4096</width>
+      <height>2160</height>
+      <cols>32</cols>
+      <rows>17</rows>
+      <tiles>544</tiles>
     </level>
     <level>
       <z>5</z>
-      <width>4264</width>
-      <height>1424</height>
-      <cols>17</cols>
-      <rows>6</rows>
-      <tiles>102</tiles>
+      <width>8192</width>
+      <height>4320</height>
+      <cols>64</cols>
+      <rows>34</rows>
+      <tiles>2176</tiles>
     </level>
   </levels>
 </tiles>

@@ -7,4 +7,4 @@ Allow: /
 User-agent: GPTBot
 Allow: /
 
-Sitemap: https://www.roberto-fettuccia.com.br/sitemap.xml
+Sitemap: https://vidanovasantarita.com.br/sitemap.xml
